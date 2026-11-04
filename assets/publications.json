@@ -1,0 +1,706 @@
+[
+  {
+    "DOI": "10.1109/jcsse68839.2026.11597064",
+    "title": [
+      "Deep Smartphone-Based Classification of NH\n                    <sup>+</sup>\n                    <sub>4</sub>\n                    and NH\n                    <sup>-</sup>\n                    <sub>2</sub>\n                    Colorimetric Strips: Revisiting the Role of Explicit Green-Border Calibration"
+    ],
+    "author": [
+      {
+        "given": "Phuc Nguyen Tran",
+        "family": "Thien",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Ho Chi Minh City Open University,Faculty of Information Technology,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Trung Nguyen",
+        "family": "Quoc",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "FPT University,Department of Artificial Intelligence,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thai-Binh",
+        "family": "Tran",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Vietnam Academy of Science and Technology,Vietnam National Space Center,Ha Noi,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vinh Truong",
+        "family": "Hoang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ho Chi Minh City Open University,Faculty of Information Technology,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kiet Tran",
+        "family": "Trung",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ho Chi Minh City Open University,Faculty of Information Technology,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "2026 23rd International Joint Conference on Computer Science and Software Engineering (JCSSE)"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          24
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "847-852",
+    "article-number": null,
+    "type": "proceedings-article",
+    "URL": "https://doi.org/10.1109/jcsse68839.2026.11597064",
+    "title_clean": "Deep Smartphone-Based Classification of NH4+ and NH2- Colorimetric Strips: Revisiting the Role of Explicit Green-Border Calibration",
+    "authors": [
+      "Phuc Nguyen Tran Thien",
+      "Trung Nguyen Quoc",
+      "Thai-Binh Tran",
+      "Vinh Truong Hoang",
+      "Kiet Tran Trung"
+    ],
+    "year": 2026,
+    "venue": "IEEE JCSSE 2026"
+  },
+  {
+    "DOI": "10.1109/jcsse68839.2026.11597039",
+    "title": [
+      "Deep NH\n                    <sup>+</sup>\n                    <sub>4</sub>\n                    Regression for Smartphone Colorimetric Test Strips: On the Need for Explicit Green-Border Normalization"
+    ],
+    "author": [
+      {
+        "given": "Phuc Nguyen Tran",
+        "family": "Thien",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Ho Chi Minh City Open University,Faculty of Information Technology,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Trung Nguyen",
+        "family": "Quoc",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "FPT University,Department of Artificial Intelligence,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thanh-Danh",
+        "family": "Nguyen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Advanced Technology,Vietnam Academy of Science and Technology,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vinh Truong",
+        "family": "Hoang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ho Chi Minh City Open University,Faculty of Information Technology,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kiet",
+        "family": "Tran-Trung",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ho Chi Minh City Open University,Faculty of Information Technology,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "2026 23rd International Joint Conference on Computer Science and Software Engineering (JCSSE)"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          24
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "877-882",
+    "article-number": null,
+    "type": "proceedings-article",
+    "URL": "https://doi.org/10.1109/jcsse68839.2026.11597039",
+    "title_clean": "Deep NH4+ Regression for Smartphone Colorimetric Test Strips: On the Need for Explicit Green-Border Normalization",
+    "authors": [
+      "Phuc Nguyen Tran Thien",
+      "Trung Nguyen Quoc",
+      "Thanh-Danh Nguyen",
+      "Vinh Truong Hoang",
+      "Kiet Tran-Trung"
+    ],
+    "year": 2026,
+    "venue": "IEEE JCSSE 2026"
+  },
+  {
+    "DOI": "10.1109/cicn70047.2026.11594397",
+    "title": [
+      "Adapting Hierarchical Feature Aggregation and Spatio-Temporal Graph Neural Networks for Vietnamese Visual Speech Recognition on a Small Phrase-Level Dataset"
+    ],
+    "author": [
+      {
+        "given": "Trung Nguyen",
+        "family": "Quoc",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "FPT University,Department of Artificial Intelligence,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Phuc Nguyen Tran",
+        "family": "Thien",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ho Chi Minh City Open University,Faculty of Information Technology,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vinh Truong",
+        "family": "Hoang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ho Chi Minh City Open University,Faculty of Information Technology,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kiet",
+        "family": "Tran-Trung",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ho Chi Minh City Open University,Faculty of Information Technology,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "2026 IEEE 18th International Conference on Computational Intelligence and Communication Networks (CICN)"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          12
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "932-937",
+    "article-number": null,
+    "type": "proceedings-article",
+    "URL": "https://doi.org/10.1109/cicn70047.2026.11594397",
+    "title_clean": "Adapting Hierarchical Feature Aggregation and Spatio-Temporal Graph Neural Networks for Vietnamese Visual Speech Recognition on a Small Phrase-Level Dataset",
+    "authors": [
+      "Trung Nguyen Quoc",
+      "Phuc Nguyen Tran Thien",
+      "Vinh Truong Hoang",
+      "Kiet Tran-Trung"
+    ],
+    "year": 2026,
+    "venue": "IEEE CICN 2026"
+  },
+  {
+    "DOI": "10.1109/cicn70047.2026.11594266",
+    "title": [
+      "Toward Edge-Deployable Vietnamese Lip Reading: A Compact Lipnet-Style Pytorch Recognizer with a Jetson-Oriented Inference Pipeline"
+    ],
+    "author": [
+      {
+        "given": "Trung Nguyen",
+        "family": "Quoc",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "FPT University,Department of Artificial Intelligence,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Phuc Nguyen Tran",
+        "family": "Thien",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ho Chi Minh City Open University,Faculty of Information Technology,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vinh Truong",
+        "family": "Hoang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ho Chi Minh City Open University,Faculty of Information Technology,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kiet",
+        "family": "Tran-Trung",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ho Chi Minh City Open University,Faculty of Information Technology,Ho Chi Minh City,Vietnam"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "2026 IEEE 18th International Conference on Computational Intelligence and Communication Networks (CICN)"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          12
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "1170-1175",
+    "article-number": null,
+    "type": "proceedings-article",
+    "URL": "https://doi.org/10.1109/cicn70047.2026.11594266",
+    "title_clean": "Toward Edge-Deployable Vietnamese Lip Reading: A Compact Lipnet-Style Pytorch Recognizer with a Jetson-Oriented Inference Pipeline",
+    "authors": [
+      "Trung Nguyen Quoc",
+      "Phuc Nguyen Tran Thien",
+      "Vinh Truong Hoang",
+      "Kiet Tran-Trung"
+    ],
+    "year": 2026,
+    "venue": "IEEE CICN 2026"
+  },
+  {
+    "DOI": "10.1016/j.aca.2026.345097",
+    "title": [
+      "Smartphone-based colorimetric sensing with reference calibration and ensemble machine learning for enhanced detection of nitrite and ammonium ions"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0009-6901-1596",
+        "authenticated-orcid": false,
+        "given": "Trung Nguyen",
+        "family": "Quoc",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-6431-1720",
+        "authenticated-orcid": false,
+        "given": "Minh-Vuong",
+        "family": "Phan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0005-2973-4838",
+        "authenticated-orcid": false,
+        "given": "Khoi Pham",
+        "family": "Dang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0003-6518-2140",
+        "authenticated-orcid": false,
+        "given": "Huy Ngo",
+        "family": "Huu Gia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0009-3768-3363",
+        "authenticated-orcid": false,
+        "given": "Phuc Nguyen",
+        "family": "Tran Thien",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3464-3894",
+        "authenticated-orcid": false,
+        "given": "Vinh Truong",
+        "family": "Hoang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0009-7174-0915",
+        "authenticated-orcid": false,
+        "given": "Thanh-Long",
+        "family": "Do",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thai-Binh",
+        "family": "Tran",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Manh-Huy",
+        "family": "Do",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-3004-0018",
+        "authenticated-orcid": false,
+        "given": "Le-Kim-Thuy",
+        "family": "Nguyen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6330-8916",
+        "authenticated-orcid": false,
+        "given": "Thanh-Danh",
+        "family": "Nguyen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Analytica Chimica Acta"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          2
+        ]
+      ]
+    },
+    "volume": "1388",
+    "issue": null,
+    "page": "345097",
+    "article-number": "345097",
+    "type": "journal-article",
+    "URL": "https://doi.org/10.1016/j.aca.2026.345097",
+    "title_clean": "Smartphone-based colorimetric sensing with reference calibration and ensemble machine learning for enhanced detection of nitrite and ammonium ions",
+    "authors": [
+      "Trung Nguyen Quoc",
+      "Minh-Vuong Phan",
+      "Khoi Pham Dang",
+      "Huy Ngo Huu Gia",
+      "Phuc Nguyen Tran Thien",
+      "Vinh Truong Hoang",
+      "Thanh-Long Do",
+      "Thai-Binh Tran",
+      "Manh-Huy Do",
+      "Le-Kim-Thuy Nguyen",
+      "Thanh-Danh Nguyen"
+    ],
+    "year": 2026,
+    "venue": "Analytica Chimica Acta, 1388, 345097"
+  },
+  {
+    "DOI": "10.46223/hcmcoujs.tech.vi.20.2.4201.2025",
+    "title": [
+      "MoViNet-A2 cho bài toán nhận diện ký hiệu Tiếng Việt"
+    ],
+    "author": [
+      {
+        "given": "Trương Duy",
+        "family": "Việt",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ngô Hữu Gia",
+        "family": "Huy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Phạm Đăng",
+        "family": "Khôi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nguyễn Trần Thiên",
+        "family": "Phúc",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "TẠP CHÍ KHOA HỌC ĐẠI HỌC MỞ THÀNH PHỐ HỒ CHÍ MINH - KỸ THUẬT VÀ CÔNG NGHỆ"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          20
+        ]
+      ]
+    },
+    "volume": "20",
+    "issue": "2",
+    "page": "3-14",
+    "article-number": null,
+    "type": "journal-article",
+    "URL": "https://doi.org/10.46223/hcmcoujs.tech.vi.20.2.4201.2025",
+    "title_clean": "MoViNet-A2 cho bài toán nhận diện ký hiệu Tiếng Việt",
+    "authors": [
+      "Trương Duy Việt",
+      "Ngô Hữu Gia Huy",
+      "Phạm Đăng Khôi",
+      "Nguyễn Trần Thiên Phúc"
+    ],
+    "year": 2025,
+    "venue": "HCMCOU Journal of Science - Engineering and Technology, 20(2), 3–14"
+  }
+]
