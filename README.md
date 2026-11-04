@@ -1,12 +1,12 @@
-# Research portfolio — Phuc Nguyen Tran Thien
+# AI engineering and research — Phuc Nguyen Tran Thien
 
-Static academic portfolio hosted on GitHub Pages at https://ntthienphuc.github.io/.
+Static AI engineering and research portfolio hosted on GitHub Pages at https://ntthienphuc.github.io/.
 
 ## Edit
 - `index.html`: biography, research, publications and software.
 - `styles.css`: responsive layout and print styles.
 - `script.js`: accessible publication filtering.
-- `assets/research-cv.pdf`: downloadable two-page research CV.
+- `assets/research-cv.pdf`: downloadable two-page AI engineering and research CV.
 - `assets/publications.bib`: bibliography, preserving deposited publication metadata.
 
 No build step or third-party JavaScript dependencies. Preview with any static HTTP server.
